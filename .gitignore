@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.env
+*.db
+backend/data/*.db
+backend/data/*.db-wal
+backend/data/*.db-shm
+.streamlit/secrets.toml
+dist/
+build/
+*.egg-info/
+cloudflared.exe
+*.log
